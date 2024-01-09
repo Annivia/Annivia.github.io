@@ -37,28 +37,7 @@
       <link>https://example.com/post/hri/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/hri/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./hri.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I am excited to announce that I have been selected to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
+      <description>&lt;p&gt;I am excited to announce that I have been selected to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
 </description>
     </item>
     
@@ -166,7 +145,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-987341625&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-372514968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -176,7 +155,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-987341625&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-372514968&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
