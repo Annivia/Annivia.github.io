@@ -22,48 +22,11 @@
     </item>
     
     <item>
-      <title>Complete my journey as a Robotics Institute Summer Scholar</title>
-      <link>https://example.com/post/riss/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/riss/</guid>
-      <description>&lt;p&gt;I am immensely thankful to my mentors, peers, and the entire RISS community for their support and encouragement. As I move forward, I carry with me not only the knowledge and skills I have acquired but also the memories and friendships that will last a lifetime.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_35910d6f8c22d823b8adf901cfb803c9.webp 400w,
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_0e136354fc7c8461c875d0a8161f1d11.webp 760w,
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_35910d6f8c22d823b8adf901cfb803c9.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Paper Accepted at IROS 2023 Human Multi-Robot Interaction Workshop</title>
       <link>https://example.com/post/iros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/iros/</guid>
-      <description>&lt;p&gt;I am pleased to announce that my paper has been accepted for presentation at the Human Multi-Robot Interaction Workshop, part of the International Conference on Intelligent Robots and Systems (IROS) 2023, in Detroit.&lt;/p&gt;
+      <description>&lt;p&gt;I am pleased to announce that my paper has been accepted for presentation at the Human Multi-Robot Interaction Workshop, part of the International Conference on Intelligent Robots and Systems (IROS) 2023, in Detroit. This acceptance marks a significant milestone in my research career and contributes to the growing body of knowledge in the field of robotics.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -83,10 +46,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_0cddf8ea01d680458593e3b0a25e2404.webp 400w,
+               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_de0a7ce714e60525b842c8b206286c2c.webp 400w,
                /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_32d33dd27dbb905e4d04886dba0a26fe.webp 760w,
                /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_0cddf8ea01d680458593e3b0a25e2404.webp&#34;
+               src=&#34;https://example.com/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_de0a7ce714e60525b842c8b206286c2c.webp&#34;
                width=&#34;720&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -112,15 +75,24 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_2515fd068cc7fb2dbcfccfa54f3b9e28.webp 400w,
+               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_68faeddc9d31e60407e47948a4aa6c54.webp 400w,
                /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_3717e08a90413dbef78fb633338d7bc4.webp 760w,
                /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_2515fd068cc7fb2dbcfccfa54f3b9e28.webp&#34;
+               src=&#34;https://example.com/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_68faeddc9d31e60407e47948a4aa6c54.webp&#34;
                width=&#34;760&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complete my journey as a Robotics Institute Summer Scholar</title>
+      <link>https://example.com/post/riss/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/riss/</guid>
+      <description>&lt;p&gt;I am immensely thankful to my mentors, peers, and the entire RISS community for their support and encouragement. As I move forward, I carry with me not only the knowledge and skills I have acquired but also the memories and friendships that will last a lifetime.&lt;/p&gt;
 </description>
     </item>
     

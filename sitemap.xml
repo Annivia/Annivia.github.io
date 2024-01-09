@@ -22,6 +22,10 @@
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/iros/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/riss/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,9 +102,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/iros/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
