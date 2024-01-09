@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,38 +13,20 @@
     </image>
     
     <item>
-      <title>Paper Accepted at IROS 2023 Human Multi-Robot Interaction Workshop</title>
-      <link>https://example.com/post/iros/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/iros/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_deecece88b887348c4cf50c5382facca.webp 400w,
-               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_00cb3ce5dd11e20af98c59127badda87.webp 760w,
-               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_deecece88b887348c4cf50c5382facca.webp&#34;
-               width=&#34;720&#34;
-               height=&#34;540&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+      <title>Announcing My Role as a Reviewer for HRI 2024 Late Breaking Results</title>
+      <link>https://example.com/post/hri/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/hri/</guid>
+      <description>&lt;p&gt;I am excited to announce that I have been selected to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complete my journey as a Robotics Institute Summer Scholar</title>
+      <link>https://example.com/post/riss/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/riss/</guid>
+      <description>&lt;p&gt;I am immensely thankful to my mentors, peers, and the entire RISS community for their support and encouragement. As I move forward, I carry with me not only the knowledge and skills I have acquired but also the memories and friendships that will last a lifetime.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -64,34 +46,25 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_42b16ae19531ff352a32408e1ee516c5.webp 400w,
-               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_27c3625f06d85f8778caf3f214a07e4e.webp 760w,
-               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_42b16ae19531ff352a32408e1ee516c5.webp&#34;
+               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_35910d6f8c22d823b8adf901cfb803c9.webp 400w,
+               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_0e136354fc7c8461c875d0a8161f1d11.webp 760w,
+               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_35910d6f8c22d823b8adf901cfb803c9.webp&#34;
                width=&#34;760&#34;
-               height=&#34;538&#34;
+               height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I am pleased to announce that my paper has been accepted for presentation at the Human Multi-Robot Interaction Workshop, part of the International Conference on Intelligent Robots and Systems (IROS) 2023, in Detroit.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Announcing My Role as a Reviewer for HRI 2024 Late Breaking Results</title>
-      <link>https://example.com/post/hri/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/hri/</guid>
-      <description>&lt;p&gt;I am excited to announce that I have been selected to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcing My Role as a Reviewer for HRI 2024 Late Breaking Results</title>
-      <link>https://example.com/post/riss/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/riss/</guid>
-      <description>&lt;p&gt;
+      <title>Paper Accepted at IROS 2023 Human Multi-Robot Interaction Workshop</title>
+      <link>https://example.com/post/iros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/iros/</guid>
+      <description>&lt;p&gt;I am pleased to announce that my paper has been accepted for presentation at the Human Multi-Robot Interaction Workshop, part of the International Conference on Intelligent Robots and Systems (IROS) 2023, in Detroit.&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -110,16 +83,44 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_a0a8d7e068841b20990049207aa32d03.webp 400w,
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_9f8e0d2362d4f154b70e374350a847da.webp 760w,
-               /post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/riss/riss_hu6112c383ccdddd01cf6fce7c3779717a_218938_a0a8d7e068841b20990049207aa32d03.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
+               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_0cddf8ea01d680458593e3b0a25e2404.webp 400w,
+               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_32d33dd27dbb905e4d04886dba0a26fe.webp 760w,
+               /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_0cddf8ea01d680458593e3b0a25e2404.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I am excited to announce that I have been selected to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
+&lt;p&gt;Intelligent agents such as robots are increasingly deployed in real-world, safety-critical settings. It is vital that these agents are able to explain the reasoning behind their decisions to human counterparts, however, their behavior is often produced by uninterpretable models such as deep neural networks. We propose an approach to generate natural language explanations for an agent&amp;rsquo;s behavior based only on observations of states and actions, agnostic to the underlying model representation. We show how a compact representation of the agent&amp;rsquo;s behavior can be learned and used to produce plausible explanations with minimal hallucination while affording user interaction with a pre-trained large language model. Through user studies and empirical experiments, we show that our approach generates explanations as helpful as those generated by a human domain expert while enabling beneficial interactions such as clarification and counterfactual queries.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_2515fd068cc7fb2dbcfccfa54f3b9e28.webp 400w,
+               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_3717e08a90413dbef78fb633338d7bc4.webp 760w,
+               /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_2515fd068cc7fb2dbcfccfa54f3b9e28.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
