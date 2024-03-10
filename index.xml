@@ -108,6 +108,64 @@
     </item>
     
     <item>
+      <title>Starting My Ph.D. journey at Georgia Institute of Technology</title>
+      <link>https://example.com/post/phd/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/phd/</guid>
+      <description>&lt;p&gt;I am starting my PhD at GaTech!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_85b04119744e8609a9628b2c4a61ca86.webp 400w,
+               /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_0f1626c2c5f7a788c6016a4b5d89c9fb.webp 760w,
+               /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_85b04119744e8609a9628b2c4a61ca86.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;gifts.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Completed my journey as a Robotics Institute Summer Scholar</title>
       <link>https://example.com/post/riss/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
