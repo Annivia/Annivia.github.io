@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Xijia</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Xijia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Xijia</title>
       <link>https://example.com/</link>
     </image>
     
@@ -97,15 +97,6 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Finally, thanks the Institute for Robotics and Intelligent Machines and the School of Interactive Computing at for giving me those amazing gifts, especially the adorable T-shirt.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcing My Role as a Reviewer for HRI 2024 Late Breaking Results</title>
-      <link>https://example.com/post/hri/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/hri/</guid>
-      <description>&lt;p&gt;I am delighted to serve as a reviewer for the Late Breaking Results section at the Human-Robot Interaction (HRI) 2024 conference. This opportunity is not only an honor but also a unique chance to engage with the forefront of research in human-robot interaction.&lt;/p&gt;
 </description>
     </item>
     
@@ -384,9 +375,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://example.com/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://example.com/admin/</guid>
       <description></description>
     </item>
     
