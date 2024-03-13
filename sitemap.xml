@@ -4,108 +4,81 @@
   <url>
     <loc>https://example.com/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/cmu/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/phd/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/iros/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/riss/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
