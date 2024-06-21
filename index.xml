@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Xijia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
       <title>Xijia</title>
@@ -171,7 +171,91 @@
       <link>https://example.com/post/riss/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/riss/</guid>
-      <description>&lt;p&gt;I am immensely thankful to my mentors, peers, and the entire RISS community for their support and encouragement. As I move forward, I carry with me not only the knowledge and skills I have acquired but also the memories and friendships that will last a lifetime.&lt;/p&gt;
+      <description>&lt;p&gt;During my time as a Robotics Institute Summer Scholar, I had the chance to interact with some of the coolest robots out there. Credit to the Boston Dynamics dog at Dr. Deepak Pathak&amp;rsquo;s lab, the Khephara IV robots at Dr. Katia Sycara&amp;rsquo;s lab, the autonomous driving car at Dr. John Dolan&amp;rsquo;s lab, and the snake robots at Dr. Howie Choset&amp;rsquo;s lab. In addition to these, I witnessed a variety of drones, robotic arms, and surgical robots, among others at other labs and the Field Robotics Center.&lt;/p&gt;
+&lt;p&gt;This snake (left) literally crawled onto my leg. I was given the most unexpected leg massage of my life.&lt;/p&gt;
+&lt;div id=&#34;image-table&#34;&gt;
+    &lt;table&gt;
+	    &lt;tr&gt;
+    	    &lt;td style=&#34;padding:10px&#34;&gt;
+        	    &lt;img src=&#34;snake_on_me.jpg&#34; width=&#34;350&#34;/&gt;
+      	    &lt;/td&gt;
+            &lt;td style=&#34;padding:10px&#34;&gt;
+            	&lt;img src=&#34;snake.jpg&#34; width=&#34;300&#34;/&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;This vehicle (left) won the second prize at the DARPA Grand Challenge. I learnt the story of how people from Stanford like to exhibit a picture of their car surpassing this one near the endpoint of the race.&lt;/p&gt;
+&lt;div id=&#34;image-table&#34;&gt;
+    &lt;table&gt;
+	    &lt;tr&gt;
+    	    &lt;td style=&#34;padding:10px&#34;&gt;
+        	    &lt;img src=&#34;car.jpg&#34; width=&#34;350&#34;/&gt;
+      	    &lt;/td&gt;
+            &lt;td style=&#34;padding:10px&#34;&gt;
+            	&lt;img src=&#34;smallcar.jpg&#34; width=&#34;350&#34;/&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;We had so many Khephara IVs in our lab. I mainly worked with no. 117 and no. 119 and I miss them. The two octopuses in the photo were brought by me &amp;ndash; who can resist adding cute obstacles in robot experiments? I look forward to their reappearance in my future publications!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_4d4b71a010a52573231f270eee4f8a4c.webp 400w,
+               /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_698fc4fb771fc73d3dcd7ab93940f83f.webp 760w,
+               /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_4d4b71a010a52573231f270eee4f8a4c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I am immensely thankful to my mentors, peers, and the entire RISS community for their support and encouragement. As I move forward, I carry with me not only the knowledge and skills I have acquired but also the memories and friendships that will last a lifetime.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_d96aacbf331d128fdbe42dc77cdcc0ab.webp 400w,
+               /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_074e77c0dc82ecab02d9f9074890766f.webp 760w,
+               /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_d96aacbf331d128fdbe42dc77cdcc0ab.webp&#34;
+               width=&#34;569&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -180,12 +264,7 @@
       <link>https://example.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -359,25 +438,15 @@ $$&lt;/p&gt;
       <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/</link>
+      <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/</guid>
+      <guid>https://example.com/admin/config.yml</guid>
       <description></description>
     </item>
     
