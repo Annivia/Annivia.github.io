@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xijia</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xijia.me/</link>
+      <atom:link href="https://xijia.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Xijia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xijia.me/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
       <title>Xijia</title>
-      <link>https://example.com/</link>
+      <link>https://xijia.me/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://xijia.me/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://xijia.me/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Starting My Ph.D. at Georgia Institute of Technology</title>
-      <link>https://example.com/post/phd/</link>
+      <link>https://xijia.me/post/phd/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/phd/</guid>
+      <guid>https://xijia.me/post/phd/</guid>
       <description>&lt;p&gt;I am excited to update that I will be joining Georgia Institute of Technology as a Ph.D. student at College of Computing, advised by Professor Matthew Gombolay, who has been my dream advisor for a long time :) What makes this opportunity even more exhilarating is that I will be pursuing a Ph.D. in robotics &amp;ndash; Despite declaring robotics as my third major during my undergraduate studies and not completing it, I now have the opportunity to pursue this passion at the doctoral level. My future research will concentrate on Human-Robot Interaction (HRI) and Explainable Artificial Intelligence (XAI).&lt;/p&gt;
 &lt;p&gt;
 
@@ -60,7 +60,7 @@
                /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_251a0fdb4e8e157135239a1bb1cbc655.webp 400w,
                /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_5d04a88f03604d6c6efd548080a09b1e.webp 760w,
                /post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_251a0fdb4e8e157135239a1bb1cbc655.webp&#34;
+               src=&#34;https://xijia.me/post/phd/atlanta_hu9792d4aec568abd2053879c2ce3cfb4e_167971_251a0fdb4e8e157135239a1bb1cbc655.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -90,7 +90,7 @@
                /post/phd/gifts_hudc35d1b54fba23aef1b3fb90c887f833_189714_38af76285e2cdbc18f42e3b3a316ce13.webp 400w,
                /post/phd/gifts_hudc35d1b54fba23aef1b3fb90c887f833_189714_ca4faf224f7726b55a02b16f6929daf5.webp 760w,
                /post/phd/gifts_hudc35d1b54fba23aef1b3fb90c887f833_189714_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/phd/gifts_hudc35d1b54fba23aef1b3fb90c887f833_189714_38af76285e2cdbc18f42e3b3a316ce13.webp&#34;
+               src=&#34;https://xijia.me/post/phd/gifts_hudc35d1b54fba23aef1b3fb90c887f833_189714_38af76285e2cdbc18f42e3b3a316ce13.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -102,9 +102,9 @@
     
     <item>
       <title>Paper Accepted at IROS 2023 Human Multi-Robot Interaction Workshop</title>
-      <link>https://example.com/post/iros/</link>
+      <link>https://xijia.me/post/iros/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/iros/</guid>
+      <guid>https://xijia.me/post/iros/</guid>
       <description>&lt;p&gt;I am excited to announce that my paper has been accepted for presentation at the Human Multi-Robot Interaction Workshop, part of the International Conference on Intelligent Robots and Systems (IROS) 2023, in Detroit. This acceptance marks a significant milestone in my research career and contributes to the growing body of knowledge in the field of robotics.&lt;/p&gt;
 &lt;p&gt;
 
@@ -128,7 +128,7 @@
                /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_de0a7ce714e60525b842c8b206286c2c.webp 400w,
                /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_32d33dd27dbb905e4d04886dba0a26fe.webp 760w,
                /post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_de0a7ce714e60525b842c8b206286c2c.webp&#34;
+               src=&#34;https://xijia.me/post/iros/iros_hub9e39c845635529cf040b4b5be80d140_63613_de0a7ce714e60525b842c8b206286c2c.webp&#34;
                width=&#34;720&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -157,7 +157,7 @@
                /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_68faeddc9d31e60407e47948a4aa6c54.webp 400w,
                /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_3717e08a90413dbef78fb633338d7bc4.webp 760w,
                /post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_68faeddc9d31e60407e47948a4aa6c54.webp&#34;
+               src=&#34;https://xijia.me/post/iros/poster_hu287f4bf22ec2383aeb9ca7cf03080f24_1052463_68faeddc9d31e60407e47948a4aa6c54.webp&#34;
                width=&#34;760&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -168,9 +168,9 @@
     
     <item>
       <title>Completed my journey as a Robotics Institute Summer Scholar</title>
-      <link>https://example.com/post/riss/</link>
+      <link>https://xijia.me/post/riss/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/riss/</guid>
+      <guid>https://xijia.me/post/riss/</guid>
       <description>&lt;p&gt;During my time as a Robotics Institute Summer Scholar, I had the chance to interact with some of the coolest robots out there. Credit to the Boston Dynamics dog at Dr. Deepak Pathak&amp;rsquo;s lab, the Khephara IV robots at Dr. Katia Sycara&amp;rsquo;s lab, the autonomous driving car at Dr. John Dolan&amp;rsquo;s lab, and the snake robots at Dr. Howie Choset&amp;rsquo;s lab. In addition to these, I witnessed a variety of drones, robotic arms, and surgical robots, among others at other labs and the Field Robotics Center.&lt;/p&gt;
 &lt;p&gt;This snake (left) literally crawled onto my leg. I was given the most unexpected leg massage of my life.&lt;/p&gt;
 &lt;div id=&#34;image-table&#34;&gt;
@@ -221,7 +221,7 @@
                /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_4d4b71a010a52573231f270eee4f8a4c.webp 400w,
                /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_698fc4fb771fc73d3dcd7ab93940f83f.webp 760w,
                /post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_4d4b71a010a52573231f270eee4f8a4c.webp&#34;
+               src=&#34;https://xijia.me/post/riss/octopus_hu638c8f8d346d691f1eab20b84f794b72_111350_4d4b71a010a52573231f270eee4f8a4c.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -250,7 +250,7 @@
                /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_d96aacbf331d128fdbe42dc77cdcc0ab.webp 400w,
                /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_074e77c0dc82ecab02d9f9074890766f.webp 760w,
                /post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_d96aacbf331d128fdbe42dc77cdcc0ab.webp&#34;
+               src=&#34;https://xijia.me/post/riss/dog_hu08b44a1e1f6390d5f316a10cfddf50a7_220019_d96aacbf331d128fdbe42dc77cdcc0ab.webp&#34;
                width=&#34;569&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -261,18 +261,18 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://xijia.me/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://xijia.me/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://xijia.me/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://xijia.me/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -395,9 +395,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://xijia.me/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://xijia.me/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -408,17 +408,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>https://xijia.me/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://xijia.me/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://xijia.me/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://xijia.me/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -435,18 +435,18 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://xijia.me/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://xijia.me/publication/conference-paper/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://xijia.me/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://xijia.me/admin/config.yml</guid>
       <description></description>
     </item>
     

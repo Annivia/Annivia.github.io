@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Xijia</title>
-    <link>https://example.com/tag/demo/</link>
-      <atom:link href="https://example.com/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xijia.me/tag/demo/</link>
+      <atom:link href="https://xijia.me/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xijia.me/media/icon_hud0878d03dbfef15a826247f760be8539_121126_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/tag/demo/</link>
+      <link>https://xijia.me/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>https://xijia.me/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://xijia.me/project/external-project/</guid>
       <description></description>
     </item>
     
