@@ -161,7 +161,6 @@
         <p><strong>Note:</strong> If you go "back" your data will be lost.</p>
         <p><strong>Participant Information:</strong></p>
         <ul>
-            <li>Participant ID: <span id="displayParticipantId"></span></li>
             <li>Domain 1: <span id="displayDomain1"></span></li>
             <li>Domain 2: <span id="displayDomain2"></span></li>
         </ul>
@@ -466,7 +465,6 @@
             }
             
             // Update displayed values
-            document.getElementById("displayParticipantId").textContent = studyConfig.participantId;
             document.getElementById("displayDomain1").textContent = studyConfig.domain1;
             document.getElementById("displayDomain2").textContent = studyConfig.domain2;
             
@@ -476,7 +474,6 @@
             document.getElementById("postTeachingFirstDomain").textContent = studyConfig.domain1;
             document.getElementById("postTeachingSecondDomain").textContent = studyConfig.domain2;
             document.getElementById("postTeachingSecondDomain2").textContent = studyConfig.domain2;
-            document.getElementById("interviewParticipantId").textContent = studyConfig.participantId;
             
             // Set up video links
             document.getElementById("introVideoLink").href = videoLinks.introVideo;
