@@ -54,6 +54,28 @@
         button.red:hover {
             background-color: #c0392b;
         }
+        .link-container {
+            margin: 15px 0;
+        }
+        .button {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        .button.green {
+            background-color: #2ecc71;
+        }
+        .button.green:hover {
+            background-color: #27ae60;
+        }
         select {
             padding: 8px;
             font-size: 16px;
@@ -91,8 +113,8 @@
         <div class="option-group">
             <label for="domainOrder">Domain Order:</label>
             <select id="domainOrder">
-                <option value="SF">Soil Mixing First (SF)</option>
-                <option value="FS">Framing First (FS)</option>
+                <option value="ST">Soil Mixing First (ST)</option>
+                <option value="TS">Table Setting First (TS)</option>
             </select>
         </div>
         <div class="option-group">
@@ -132,9 +154,11 @@
         <p>We will first collect your email, which we will use to send you the gift card.</p>
         <p><strong>Instructions for researcher:</strong></p>
         <ul>
-            <li>Open the compensation survey link</li>
             <li>Have participant complete the 1-question survey</li>
         </ul>
+        <div class="link-container">
+            <a href="https://example.com/compensation-survey" target="_blank" class="button green">Open Compensation Survey</a>
+        </div>
         <button onclick="nextPage()">Continue</button>
     </div>
 
@@ -145,12 +169,14 @@
         <p><strong>Note:</strong> If you go "back" your data will be lost.</p>
         <p><strong>Instructions for researcher:</strong></p>
         <ul>
-            <li>Open survey link</li>
-            <li>Enter the following information:</li>
+            <li>Enter the following information in the survey:</li>
             <li>Participant ID: <span id="displayParticipantId"></span></li>
             <li>Domain 1: <span id="displayDomain1"></span></li>
             <li>Domain 2: <span id="displayDomain2"></span></li>
         </ul>
+        <div class="link-container">
+            <a href="https://example.com/initial-survey" target="_blank" class="button green">Open Initial Survey</a>
+        </div>
         <button onclick="nextPage()">Continue</button>
     </div>
 
@@ -160,7 +186,9 @@
         <p>Alright. Now, you'll watch a brief introductory video that will teach you about the study.</p>
         <div class="video-container">
             <p><strong>Instructions for researcher:</strong> Play the intro video for the participant.</p>
-            <p>Video location: <code>/static/videos/intro_video.mp4</code></p>
+            <div class="link-container">
+                <a href="/static/videos/intro_video.mp4" target="_blank" class="button green">Play Introduction Video</a>
+            </div>
         </div>
         <button onclick="nextPage()">Continue</button>
     </div>
@@ -413,11 +441,11 @@
             studyConfig.feedbackCondition = document.getElementById("feedbackCondition").value;
             
             // Set domains based on order
-            if (studyConfig.domainOrder === "SF") {
+            if (studyConfig.domainOrder === "ST") {
                 studyConfig.domain1 = "Soil Mixing";
-                studyConfig.domain2 = "Framing";
+                studyConfig.domain2 = "Table Setting";
             } else {
-                studyConfig.domain1 = "Framing";
+                studyConfig.domain1 = "Table Setting";
                 studyConfig.domain2 = "Soil Mixing";
             }
             
