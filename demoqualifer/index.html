@@ -152,30 +152,25 @@
     <div id="page2" class="page">
         <h1>Compensation Information</h1>
         <p>We will first collect your email, which we will use to send you the gift card.</p>
-        <p><strong>Instructions for researcher:</strong></p>
-        <ul>
-            <li>Have participant complete the 1-question survey</li>
-        </ul>
         <div class="link-container">
-            <a href="https://example.com/compensation-survey" target="_blank" class="button green">Open Compensation Survey</a>
+            <a href="" id="compensationSurveyLink" target="_blank" class="button green">Open Compensation Survey</a>
         </div>
         <button onclick="nextPage()">Continue</button>
     </div>
 
     <!-- Page 3: Initial Survey -->
     <div id="page3" class="page">
-        <h1>Initial Survey</h1>
-        <p>Great, now let's begin the study. You will start by taking this survey.</p>
+        <h1>Experimenter Page</h1>
+        <p>Great, now let's begin the study. Experimenter should fill out this survey.</p>
         <p><strong>Note:</strong> If you go "back" your data will be lost.</p>
-        <p><strong>Instructions for researcher:</strong></p>
+        <p><strong>Participant Information:</strong></p>
         <ul>
-            <li>Enter the following information in the survey:</li>
             <li>Participant ID: <span id="displayParticipantId"></span></li>
             <li>Domain 1: <span id="displayDomain1"></span></li>
             <li>Domain 2: <span id="displayDomain2"></span></li>
         </ul>
         <div class="link-container">
-            <a href="https://example.com/initial-survey" target="_blank" class="button green">Open Initial Survey</a>
+            <a href="" id="initialSurveyLink" target="_blank" class="button green">Open Initial Survey</a>
         </div>
         <button onclick="nextPage()">Continue</button>
     </div>
@@ -185,9 +180,8 @@
         <h1>Introduction Video</h1>
         <p>Alright. Now, you'll watch a brief introductory video that will teach you about the study.</p>
         <div class="video-container">
-            <p><strong>Instructions for researcher:</strong> Play the intro video for the participant.</p>
             <div class="link-container">
-                <a href="/static/videos/intro_video.mp4" target="_blank" class="button green">Play Introduction Video</a>
+                <a href="" id="introVideoLink" target="_blank" class="button green">Play Introduction Video</a>
             </div>
         </div>
         <button onclick="nextPage()">Continue</button>
@@ -198,8 +192,9 @@
         <h1>Block Touching Domain</h1>
         <p>Now you will be introduced to the first domain, the block touching domain.</p>
         <div class="video-container">
-            <p><strong>Instructions for researcher:</strong> Play the block touching video for the participant.</p>
-            <p>Video location: <code>/static/videos/block_touching_video.mp4</code></p>
+            <div class="link-container">
+                <a href="" id="blockTouchingVideoLink" target="_blank" class="button green">Play Block Touching Video</a>
+            </div>
         </div>
         <p><strong>Setup instructions:</strong></p>
         <ul>
@@ -220,25 +215,30 @@
             <p><strong>Note:</strong> No feedback condition selected. Skip to next step.</p>
         </div>
         <div id="feedbackF" style="display:none;">
-            <p>You will receive large language model feedback in this study. Here is a video introducing what that feedback will look like.</p>
+            <p>You will receive large language model (LLM) feedback in this study. Here is a video introducing what that feedback will look like.</p>
             <div class="video-container">
-                <p><strong>Instructions for researcher:</strong> Play the F video for the participant.</p>
-                <p>Video location: <code>/static/videos/llm_feedback_video.mp4</code></p>
+                <div class="link-container">
+                    <a href="" id="llmFeedbackVideoLink" target="_blank" class="button green">Play LLM Feedback Video</a>
+                </div>
             </div>
         </div>
         <div id="feedbackA" style="display:none;">
             <p>You will receive augmented reality feedback in this study. Here is a video introducing what that feedback will look like.</p>
             <div class="video-container">
-                <p><strong>Instructions for researcher:</strong> Play the A video for the participant.</p>
-                <p>Video location: <code>/static/videos/ar_feedback_video.mp4</code></p>
+                <div class="link-container">
+                    <a href="" id="arFeedbackVideoLink" target="_blank" class="button green">Play AR Feedback Video</a>
+                </div>
             </div>
         </div>
         <div id="feedbackB" style="display:none;">
             <p>You will have two types of feedback in this study. The first is large language model feedback, and the second is augmented reality.</p>
             <div class="video-container">
-                <p><strong>Instructions for researcher:</strong> Play the F video first, then the A video.</p>
-                <p>Video 1 location: <code>/static/videos/llm_feedback_video.mp4</code></p>
-                <p>Video 2 location: <code>/static/videos/ar_feedback_video.mp4</code></p>
+                <div class="link-container">
+                    <a href="" id="llmFeedbackVideoLink2" target="_blank" class="button green">Play LLM Feedback Video</a>
+                </div>
+                <div class="link-container">
+                    <a href="" id="arFeedbackVideoLink2" target="_blank" class="button green">Play AR Feedback Video</a>
+                </div>
             </div>
         </div>
         <div id="hololensSetup" style="display:none;">
@@ -258,13 +258,14 @@
         <h1 id="firstDomainTitle">First Domain Introduction</h1>
         <p>The next domain will now be introduced in a brief video.</p>
         <div class="video-container">
-            <p><strong>Instructions for researcher:</strong></p>
+            <div class="link-container">
+                <a href="" id="firstDomainVideoLink" target="_blank" class="button green">Play First Domain Video</a>
+            </div>
+            <p><strong>Setup instructions:</strong></p>
             <ul>
-                <li>Show first domain video</li>
-                <li>Video location: <span id="firstDomainVideo"></span></li>
                 <li>Change the domain for them in the interface to the first domain</li>
                 <li>Set up first domain (pink tape)</li>
-                <li id="firstDomainScoop" style="display:none;">If soil mixing, add scoop to gripper (facing monitor)</li>
+                <li id="firstDomainScoop" style="display:none;">Add scoop to gripper (facing monitor)</li>
             </ul>
         </div>
         <p>As a reminder you can access LLM feedback in phases 1 and 2, and AR feedback in phases 2 and 3. Feedback from the LLM is optional, and it is optional for you to use the AR headset to receive feedback. You have 40 minutes to teach this domain.</p>
@@ -278,13 +279,14 @@
         <p><strong>Instructions for researcher:</strong> Use this time to set up the second domain.</p>
         <div class="video-container">
             <p>The next (and final) domain will now be introduced in a video.</p>
-            <p><strong>Instructions:</strong></p>
+            <div class="link-container">
+                <a href="" id="secondDomainVideoLink" target="_blank" class="button green">Play Second Domain Video</a>
+            </div>
+            <p><strong>Setup instructions:</strong></p>
             <ul>
-                <li>Show second domain video</li>
-                <li>Video location: <span id="secondDomainVideo"></span></li>
                 <li>Change the domain for them in the interface to the second domain</li>
                 <li>Set up second domain (pink tape)</li>
-                <li id="secondDomainScoop" style="display:none;">If soil mixing, add scoop to gripper (facing monitor)</li>
+                <li id="secondDomainScoop" style="display:none;">Add scoop to gripper (facing monitor)</li>
             </ul>
         </div>
         <p>Alright, you are free to begin. You have 40 minutes to teach this domain.</p>
@@ -294,12 +296,14 @@
     <!-- Page 9: Post-Teaching Second Domain p1 -->
     <div id="page9" class="page">
         <h1>Post-Teaching Second Domain (Part 1)</h1>
-        <p><strong>Post-Teaching Second Domain p1: <span id="postTeachingSecondDomain"></span></strong></p>
+        <p><strong>Domain: <span id="postTeachingSecondDomain"></span></strong></p>
         <p>Now, I want you to reflect on what you taught in the second domain while you answer some questions.</p>
-        <p><strong>Instructions for researcher:</strong></p>
+        <div class="link-container">
+            <a href="" id="postTeachingQualtrics" target="_blank" class="button green">Open Post-Teaching Survey</a>
+        </div>
+        <p><strong>Instructions:</strong></p>
         <ul>
             <li>Split screen with qualtrics and interface</li>
-            <li>Open post-teaching Qualtrics (in incognito browser): https://gatech.co1.qualtrics.com/jfe/form/SV_01Eu26zfWJ0HUay</li>
         </ul>
         <div class="task">
             <p>Take a look at task 1, which you taught previously, and answer question 1.</p>
@@ -318,7 +322,7 @@
     <!-- Page 10: Post-Teaching First Domain p1 -->
     <div id="page10" class="page">
         <h1>Post-Teaching First Domain (Part 1)</h1>
-        <p><strong>Post-Teaching First Domain p1: <span id="postTeachingFirstDomain"></span></strong></p>
+        <p><strong>Domain: <span id="postTeachingFirstDomain"></span></strong></p>
         <p>Great. We will do the same thing for the first domain.</p>
         <p><strong>Instructions for researcher:</strong></p>
         <ul>
@@ -353,7 +357,7 @@
     <!-- Page 11: Post-Teaching Second Domain p2 -->
     <div id="page11" class="page">
         <h1>Post-Teaching Second Domain (Part 2)</h1>
-        <p><strong>Post-Teaching Second Domain p2: <span id="postTeachingSecondDomain2"></span></strong></p>
+        <p><strong>Domain: <span id="postTeachingSecondDomain2"></span></strong></p>
         <p>Let's go back to the first domain, but I will move things around once again.</p>
         <p><strong>Instructions for researcher:</strong></p>
         <ul>
@@ -374,10 +378,9 @@
     <div id="page12" class="page">
         <h1>Post-Study Survey</h1>
         <p>Next, you will take a final survey.</p>
-        <p><strong>Instructions for researcher:</strong></p>
-        <ul>
-            <li>Open final survey link (in incognito browser)</li>
-        </ul>
+        <div class="link-container">
+            <a href="" id="finalSurveyLink" target="_blank" class="button green">Open Final Survey</a>
+        </div>
         <button onclick="nextPage()">Continue</button>
     </div>
 
@@ -434,8 +437,26 @@
             domain2: ""
         };
 
+        // Video and survey links - FILL THESE IN
+        const videoLinks = {
+            introVideo: "https://gatech.box.com/s/vxldsodwcfp5mz8s12sqb1qo9db0th0q",  // Fill in with your intro video URL
+            blockTouchingVideo: "https://gatech.box.com/s/mtqc7hwvij4v5bgress0leqgpykgvh96",  // Fill in with your block touching video URL
+            llmFeedbackVideo: "https://gatech.box.com/s/v6m4skm1pzd2v4cepsbpjpyb4y5dbwx0",  // Fill in with your LLM feedback video URL
+            arFeedbackVideo: "https://gatech.box.com/s/xsnhxfu3gqifvhezabb0mfwpk3f976tn",  // Fill in with your AR feedback video URL
+            soilMixingVideo: "https://gatech.box.com/s/4bb2mt7hnwomidp4hcdsk3mecsqyte4r",  // Fill in with your soil mixing video URL
+            tableSettingVideo: "https://gatech.box.com/s/jjoikvbhe3e8gp0vvjdh6g1wl4rfkwh3"  // Fill in with your table setting video URL
+        };
+
+        const surveyLinks = {
+            compensationSurvey: "https://gatech.co1.qualtrics.com/jfe/form/SV_9t4zZq8qTkwQYZw",  // Fill in with your compensation survey URL
+            initialSurvey: "https://gatech.co1.qualtrics.com/jfe/form/SV_aXCQwyVGS5Em2Mu",  // Fill in with your initial survey URL
+            postTeachingSurvey: "https://gatech.co1.qualtrics.com/jfe/form/SV_01Eu26zfWJ0HUay",  // Fill in with your post-teaching survey URL
+            finalSurvey: "https://gatech.co1.qualtrics.com/jfe/form/SV_b7UCM4j2tKT1NQO"  // Fill in with your final survey URL
+        };
+
         // Initialize study based on setup selections
         function setupStudy() {
+            // Get values from setup form
             studyConfig.participantId = document.getElementById("participantId").value;
             studyConfig.domainOrder = document.getElementById("domainOrder").value;
             studyConfig.feedbackCondition = document.getElementById("feedbackCondition").value;
@@ -462,9 +483,31 @@
             document.getElementById("postTeachingSecondDomain2").textContent = studyConfig.domain2;
             document.getElementById("interviewParticipantId").textContent = studyConfig.participantId;
             
-            // Set domain videos
-            document.getElementById("firstDomainVideo").textContent = "/static/videos/" + studyConfig.domain1.toLowerCase().replace(" ", "_") + "_video.mp4";
-            document.getElementById("secondDomainVideo").textContent = "/static/videos/" + studyConfig.domain2.toLowerCase().replace(" ", "_") + "_video.mp4";
+            // Set up video links
+            document.getElementById("introVideoLink").href = videoLinks.introVideo;
+            document.getElementById("blockTouchingVideoLink").href = videoLinks.blockTouchingVideo;
+            document.getElementById("compensationSurveyLink").href = surveyLinks.compensationSurvey;
+            document.getElementById("initialSurveyLink").href = surveyLinks.initialSurvey;
+            document.getElementById("postTeachingQualtrics").href = surveyLinks.postTeachingSurvey;
+            document.getElementById("finalSurveyLink").href = surveyLinks.finalSurvey;
+            
+            // Set domain-specific video links
+            document.getElementById("firstDomainVideoLink").href = 
+                studyConfig.domain1 === "Soil Mixing" ? videoLinks.soilMixingVideo : videoLinks.tableSettingVideo;
+            document.getElementById("secondDomainVideoLink").href = 
+                studyConfig.domain2 === "Soil Mixing" ? videoLinks.soilMixingVideo : videoLinks.tableSettingVideo;
+            
+            // Set feedback video links
+            if (studyConfig.feedbackCondition === "F" || studyConfig.feedbackCondition === "B") {
+                document.getElementById("llmFeedbackVideoLink").href = videoLinks.llmFeedbackVideo;
+                if (studyConfig.feedbackCondition === "B") {
+                    document.getElementById("llmFeedbackVideoLink2").href = videoLinks.llmFeedbackVideo;
+                    document.getElementById("arFeedbackVideoLink2").href = videoLinks.arFeedbackVideo;
+                }
+            }
+            if (studyConfig.feedbackCondition === "A") {
+                document.getElementById("arFeedbackVideoLink").href = videoLinks.arFeedbackVideo;
+            }
             
             // Show/hide scoop instructions based on domain
             document.getElementById("firstDomainScoop").style.display = 
